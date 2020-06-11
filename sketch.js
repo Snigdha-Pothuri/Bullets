@@ -14,7 +14,7 @@ function setup() {
   bullet2.shapeColor=(255,255,255)
   bullet3.shapeColor=(255,255,255)
 
-  thikness=random(22,83);
+  thickness=random(22,83);
   wall=createSprite(350,50,thickness,90); 
   wall2=createSprite(350,200,thickness,90);
   wall3=createSprite(350,350,thickness,90)
